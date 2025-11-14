@@ -6,9 +6,6 @@
   <a href="https://t.me/ILYA_FAZA">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/ILYA_FAZA">
-    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
 </div>
 
 <h1>
